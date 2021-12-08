@@ -9,11 +9,11 @@
 
 ---
 [Griffiti style poster](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ GriffitiStyle.png?raw=true"/>
 
 ---
 [Ripped effect](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/RippedEffect.jpg?raw=true"/>
 
 ---
 
