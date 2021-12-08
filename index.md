@@ -4,15 +4,15 @@
 
 ### My Creative Works
 
-[Project 1 Title](/sample_page)
+[Galaxy Cat](/sample_page)
+<img src="images/GalaxyCat.jpg?raw=true"/>
+
+---
+[Griffiti style poster](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Ripped effect](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
